@@ -1,2 +1,5 @@
 # Ignorar únicamente p.txt
 n.txt
+.env
+
+/gruposado
